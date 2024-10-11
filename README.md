@@ -4,11 +4,10 @@
 **TKScanner** adalah alat Python untuk memindai dan menemukan tautan Dana Kaget di Threads. Program ini otomatis mencari tautan berdasarkan kata kunci, membuka tautan yang ditemukan, serta menyediakan opsi pengaturan jeda waktu antar tautan.
 
 ## Fitur
-- **Pencarian Kustom**: Pengguna dapat memasukkan kata kunci pencarian atau menggunakan daftar kata kunci yang telah disediakan untuk menemukan tautan Dana Kaget.
-- **Pencarian Multi-Halaman**: Opsi untuk menelusuri satu atau beberapa halaman hasil pencarian.
-- **Penanganan Kesalahan**: Program otomatis menangani kesalahan jaringan dan terus mencoba kembali.
-- **Pelacakan Tautan**: TKScanner mencatat tautan yang telah diproses untuk menghindari pengulangan.
-- **Pembukaan Tautan Otomatis**: Pilih apakah ingin membuka tautan Dana Kaget secara otomatis atau tidak, dengan pengaturan jeda waktu yang fleksibel.
+- **Pencarian Otomatis**: Memindai dan menemukan link Dana Kaget berdasarkan kata kunci yang dimasukkan.
+- **Pengaturan Waktu**: Pengguna dapat menentukan jeda antar pencarian untuk membuka link secara otomatis.
+- **Custom Query**: Mendukung berbagai kata kunci pencarian yang relevan dengan giveaway Dana Kaget.
+- **Pengaturan Pencarian**: Memungkinkan pencarian di satu halaman atau seluruh halaman Threads.
 
 ## Prasyarat
 - Library Python:
@@ -39,8 +38,8 @@
 
 ## Troubleshooting
 - **Masalah RequestException**: Jika Anda mengalami kesalahan `RequestException`, periksa koneksi internet Anda. Tunggu beberapa detik, dan program akan mencoba kembali secara otomatis.
-- **Error** `CTRL + C` **Tidak Berfungsi**: Jika kombinasi `CTRL + C` tidak menghentikan program, pastikan Anda menjalankan terminal di lingkungan yang mendukung penanganan sinyal interupsi.
-- **Link Tidak Ditemukan**: Jika program tidak menemukan link setelah pencarian selesai, kemungkinan besar kata kunci atau query yang Anda masukkan tidak sesuai. Coba gunakan kata kunci lain yang lebih relevan atau periksa apakah query yang dimasukkan sudah benar.
+- **Error `CTRL + C` Tidak Berfungsi**: Jika `CTRL + C` tidak menghentikan program, pastikan terminal Anda mendukung penghentian sinyal interupsi dengan benar.
+- **Link Tidak Ditemukan**: Jika tidak ada link yang ditemukan, kemungkinan kata kunci tidak tepat. Coba masukkan query yang lebih relevan atau cek kembali kesalahan pengetikan.
 
 ## Dukungan
 Jika Anda ingin mendukung pengembangan proyek ini, Anda dapat memberikan dukungan melalui platform berikut:
