@@ -5,8 +5,8 @@
 
 ## Fitur
 - **Pengaturan Waktu**: Pengguna dapat menentukan jeda antar pencarian untuk membuka link secara otomatis.
-- **Pengaturan Pencarian**: Memungkinkan pencarian di satu halaman atau seluruh halaman Threads.
 - **Pencarian Otomatis**: Memindai dan menemukan link Dana Kaget berdasarkan kata kunci yang dimasukkan.
+- **Pengaturan Pencarian**: Memungkinkan pencarian di satu halaman atau seluruh halaman Threads.
 - **Custom Query**: Mendukung berbagai kata kunci pencarian yang relevan dengan giveaway Dana Kaget.
 
 ## Prasyarat
@@ -38,8 +38,8 @@
 
 ## Troubleshooting
 - **Link Tidak Ditemukan**: Jika tidak ada link yang ditemukan, kemungkinan kata kunci tidak tepat. Coba masukkan query yang lebih relevan atau cek kembali kesalahan pengetikan.
-- **Masalah RequestException**: Jika Anda mengalami kesalahan `RequestException`, periksa koneksi internet Anda. Tunggu beberapa detik, dan program akan mencoba kembali secara otomatis.
 - **Error `CTRL + C` Tidak Berfungsi**: Jika `CTRL + C` tidak menghentikan program, pastikan terminal Anda mendukung penghentian sinyal interupsi dengan benar.
+- **Masalah RequestException**: Jika Anda mengalami kesalahan `RequestException`, periksa koneksi internet Anda. Tunggu beberapa detik, dan program akan mencoba kembali secara otomatis.
 
 ## Dukungan
 Jika Anda ingin mendukung pengembangan proyek ini, Anda dapat memberikan dukungan melalui platform berikut:
