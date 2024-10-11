@@ -1,5 +1,5 @@
 # TKScanner
-![TKScanner](https://github.com/user-attachments/assets/c423c560-597e-4916-9d36-aa52d3a04674)
+![TKScanner](https://github.com/user-attachments/assets/77a15160-481f-43aa-ab23-684db5539ad0)
 
 **TKScanner** adalah alat Python untuk memindai dan menemukan tautan Dana Kaget di Threads. Program ini otomatis mencari tautan berdasarkan kata kunci, membuka tautan yang ditemukan, serta menyediakan opsi pengaturan jeda waktu antar tautan.
 
