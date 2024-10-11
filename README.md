@@ -52,9 +52,6 @@ Bantu kami mengembangkan TKScanner menjadi lebih baik! Anda bisa mendukung kami 
 
 Terima kasih sudah mendukung kami! 🙏
 
-## Demo Fitur Utama
-![Video]()
-
 ## Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan kirim pull request. Anda juga dapat melaporkan masalah atau permintaan fitur melalui tab Issues.
 
