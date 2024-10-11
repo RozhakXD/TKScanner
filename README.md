@@ -53,7 +53,7 @@ Bantu kami mengembangkan TKScanner menjadi lebih baik! Anda bisa mendukung kami 
 Terima kasih sudah mendukung kami! 🙏
 
 ## Peringatan
-Pengembang **TKScanner** tidak bertanggung jawab atas dampak penggunaan alat ini. Semua risiko ditanggung pengguna, dan program disediakan tanpa jaminan apa pun.
+Pengembang tidak bertanggung jawab atas dampak penggunaan alat ini. Semua risiko ditanggung pengguna, dan program disediakan tanpa jaminan apa pun.
 
 ## Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan kirim pull request. Anda juga dapat melaporkan masalah atau permintaan fitur melalui tab Issues.
