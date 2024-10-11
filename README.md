@@ -37,6 +37,11 @@
 ## Tangkapan Layar
 ![FunPic_20241009](https://github.com/user-attachments/assets/5344debd-c0fe-4b81-89fd-6f8766ee1b3f)
 
+## Troubleshooting
+- **Masalah RequestException**: Jika Anda mengalami kesalahan `RequestException`, periksa koneksi internet Anda. Tunggu beberapa detik, dan program akan mencoba kembali secara otomatis.
+- **Error** `CTRL + C` **Tidak Berfungsi**: Jika kombinasi `CTRL + C` tidak menghentikan program, pastikan Anda menjalankan terminal di lingkungan yang mendukung penanganan sinyal interupsi.
+- **Link Tidak Ditemukan**: Jika program tidak menemukan link setelah pencarian selesai, kemungkinan besar kata kunci atau query yang Anda masukkan tidak sesuai. Coba gunakan kata kunci lain yang lebih relevan atau periksa apakah query yang dimasukkan sudah benar.
+
 ## Dukungan
 Jika Anda ingin mendukung pengembangan proyek ini, Anda dapat memberikan dukungan melalui platform berikut:
 
