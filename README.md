@@ -1,5 +1,5 @@
 # TKScanner
-![TKScanner](https://github.com/user-attachments/assets/86f8e257-315c-4cf3-94ad-1986cacec9ad)
+![TKScanner](https://github.com/user-attachments/assets/c423c560-597e-4916-9d36-aa52d3a04674)
 
 **TKScanner** adalah alat Python untuk memindai dan menemukan tautan Dana Kaget di Threads. Program ini otomatis mencari tautan berdasarkan kata kunci, membuka tautan yang ditemukan, serta menyediakan opsi pengaturan jeda waktu antar tautan.
 
@@ -42,11 +42,15 @@
 - **Masalah RequestException**: Jika Anda mengalami kesalahan `RequestException`, periksa koneksi internet Anda. Tunggu beberapa detik, dan program akan mencoba kembali secara otomatis.
 
 ## Dukungan
-Jika Anda ingin mendukung pengembangan proyek ini, Anda dapat memberikan dukungan melalui platform berikut:
+Bantu kami mengembangkan TKScanner menjadi lebih baik! Anda bisa mendukung kami dengan cara berikut:
 
-- [Trakteer](https://trakteer.id/rozhak_official/tip)
-- [PayPal](https://paypal.me/rozhak9)
-- [Saweria](https://saweria.co/rozhak9)
+- **Dukung Pengembangan**: Setiap dukungan Anda sangat berarti! Bisa sekecil satu cangkir kopi untuk mendukung pengembangan alat yang memudahkan pencarian Dana Kaget di Threads.
+    - ☕ [Trakteer](https://trakteer.id/rozhak_official/tip) | 💸 [PayPal](https://paypal.me/rozhak9) | 💰 [Saweria](https://saweria.co/rozhak9)
+- **Bergabunglah dalam Diskusi**: Bagikan ide, saran, atau bug yang Anda temui di halaman Issues GitHub kami! Komunitas berkembang dari kontribusi Anda.
+    - 💬 [Diskusi GitHub](https://github.com/RozhakXD/TKScanner/issues)
+- **Bagikan ke Teman**: Sebarkan kata tentang TKScanner ke teman atau komunitas Anda. Setiap penyebaran membantu kami tumbuh!
+
+Terima kasih sudah mendukung kami! 🙏
 
 ## Demo Fitur Utama
 ![Video]()
