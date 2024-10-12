@@ -41,6 +41,34 @@
 - **Error `CTRL + C` Tidak Berfungsi**: Jika `CTRL + C` tidak menghentikan program, pastikan terminal Anda mendukung penghentian sinyal interupsi dengan benar.
 - **Masalah RequestException**: Jika Anda mengalami kesalahan `RequestException`, periksa koneksi internet Anda. Tunggu beberapa detik, dan program akan mencoba kembali secara otomatis.
 
+## Mendapatkan Cookies Threads
+- Login ke Threads di browser.
+- Buka DevTools (tekan F12) dan pergi ke tab **Network**.
+- Klik salah satu request dan temukan **Headers** → **Cookie**.
+- Salin seluruh nilai cookies tersebut.
+
+## Memperbarui Cookies
+1. Buka file konfigurasi atau skrip utama (`Run.py`).
+    ```python
+    LINK, COOKIES, LOOPING = (
+        [],
+        {
+            'Cookie': 'null'
+        },
+        0,
+    )
+    ```
+2. Ganti '`null`' dengan cookies yang Anda dapatkan sebelumnya. Contoh:
+    ```python
+    LINK, COOKIES, LOOPING = (
+        [],
+        {
+            'Cookie': 'sessionid=abc123; ds_user_id=12345; ...'
+        },
+        0,
+    )
+    ```
+
 ## Dukungan
 Bantu kami mengembangkan TKScanner menjadi lebih baik! Anda bisa mendukung kami dengan cara berikut:
 
