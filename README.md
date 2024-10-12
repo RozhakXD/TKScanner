@@ -58,7 +58,7 @@
         0,
     )
     ```
-2. Ganti '`null`' dengan cookies yang Anda dapatkan sebelumnya. Contoh:
+2. Ganti '`null`' dengan cookies yang Anda dapatkan sebelumnya.
     ```python
     LINK, COOKIES, LOOPING = (
         [],
